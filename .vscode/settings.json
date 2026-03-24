@@ -1,0 +1,14 @@
+{
+  "[markdown]": {
+    "editor.defaultFormatter": null
+  },
+  "markdown.validate.enabled": false,
+  "json.schemas": [],
+  "json.maxItemsComputed": 0,
+  "explorer.excludeGitIgnore": true,
+  "[json]": {
+    "editor.defaultFormatter": null
+  },
+  "http.proxyStrictSSL": false,
+  "security.workspace.trust.untrustedFiles": "open"
+}
